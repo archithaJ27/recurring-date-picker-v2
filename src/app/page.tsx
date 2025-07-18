@@ -1,12 +1,11 @@
-// src/app/page.tsx
 import React from "react";
 import RecurringDatePicker from "@/components/RecurringDatePicker";
 
 export default function Home() {
   return (
-    <main className="p-8">
-      <h1 className="text-2xl font-bold mb-4">Recurring Date Picker Demo</h1>
+    <main className="min-h-screen bg-gray-100 p-6">
       <RecurringDatePicker />
     </main>
   );
 }
+
