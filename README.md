@@ -28,11 +28,7 @@ Click below to open this project in a cloud browser-based editor:
 
 ---
 
-Cloud IDE Link to Working Demo
-👉 [Launch in Gitpod](https://gitpod.io/#https://github.com/archithaJ27/recurring-date-picker-v2)
 
-
----
 ## 🔧 Tech Stack
 
 - ✅ **Next.js 14**
