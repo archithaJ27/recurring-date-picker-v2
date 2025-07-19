@@ -24,7 +24,7 @@ A reusable, user-friendly **Recurring Date Picker** component built with **Next.
 ## 🔗 Cloud IDE (Gitpod)
 Click below to open this project in a cloud browser-based editor:
 
-👉 [Launch in Gitpod](https://gitpod.io/#https://github.com/archithaJ27/recurring-date-picker-v2)
+👉 [Launch in Gitpod]( https://github.com/archithaJ27/recurring-date-picker-v2)
 
 ---
 
