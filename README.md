@@ -8,7 +8,7 @@ A reusable, user-friendly **Recurring Date Picker** component built with **Next.
 
 [👉 Click here to view the live app][(Click here to view the live app) ](https://recurring-date-picker-v2.vercel.app
 ) 
-*(Replace with your actual deployment link)*
+
 
 ---
 
