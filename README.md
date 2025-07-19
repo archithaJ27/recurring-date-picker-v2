@@ -14,8 +14,8 @@ A reusable, user-friendly **Recurring Date Picker** component built with **Next.
 
 ## 📷 Screenshot
 
-![screenshot](screenshot.png)  
-*(Make sure you save a screenshot of your UI as `screenshot.png` in the root directory)*
+![screenshot](./screenshots/screenshot.png)  
+
 
 ---
 
