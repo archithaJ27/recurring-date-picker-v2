@@ -1,23 +1,41 @@
-# 🗓️ Recurring Date Picker (Next.js + Tailwind CSS)
+# 📅 Recurring Date Picker (React + Next.js + Tailwind CSS)
 
-A reusable **Recurring Date Picker** component built with **Next.js**, **React**, and **Tailwind CSS**. It allows users to select a start date, a frequency (Daily, Weekly, Monthly), and optionally an end date. The selected recurring dates are dynamically generated.
+A reusable, user-friendly **Recurring Date Picker** component built with **Next.js**, **React**, and **Tailwind CSS**. It allows users to easily schedule recurring dates with options like Daily, Weekly, Monthly, and Yearly — inspired by the TickTick app.
+
+---
+
+## 🚀 Live Demo
+
+[👉 Click here to view the live app](https://your-vercel-url.vercel.app)  
+*(Replace with your actual deployment link)*
+
+---
+
+## 📷 Screenshot
+
+![screenshot](screenshot.png)  
+*(Make sure you save a screenshot of your UI as `screenshot.png` in the root directory)*
+
+---
+
+## 🔧 Tech Stack
+
+- ✅ **Next.js 14**
+- ✅ **React 18**
+- ✅ **Tailwind CSS**
+- ✅ **TypeScript**
 
 ---
 
 ## ✨ Features
 
-- 📅 Start and End Date pickers
-- 🔁 Frequency options (Daily, Weekly, Monthly)
-- 🧠 Generates a list of recurring dates based on the selection
-- 🎨 Styled with Tailwind CSS
-- ✅ Reusable and customizable component
+- Select frequency: Daily / Weekly / Monthly / Yearly
+- Choose specific days or dates based on frequency
+- Dynamic UI updates based on selection
+- Fully responsive and styled with Tailwind CSS
+- Clean, reusable, and modular component
 
 ---
 
-## 🚀 Project Setup
+## 📁 Folder Structure
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/recurring-date-picker.git
-cd recurring-date-picker
