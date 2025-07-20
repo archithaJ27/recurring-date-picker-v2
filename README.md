@@ -28,6 +28,9 @@ Click below to open this project in a cloud browser-based editor:
 
 ---
 
+[![Watch the demo](https://www.loom.com/share/3fbfc1be575a47eb978c67a13be7bfef)
+
+
 
 ## 🔧 Tech Stack
 
