@@ -28,7 +28,7 @@ Click below to open this project in a cloud browser-based editor:
 
 ---
 
-[![Watch the demo](https://www.loom.com/share/3fbfc1be575a47eb978c67a13be7bfef)
+[Watch Demo Video on Loom](https://www.loom.com/share/3fbfc1be575a47eb978c67a13be7bfef?sid=6d2b326c-6257-4a9c-80e8-98ae4d97b971)
 
 
 
